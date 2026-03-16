@@ -22,6 +22,7 @@ and download ReShade presets**
  
  #  **PRESETS**
  7xReShadePreset.ini
+ 7xReShadePresetVR_Optimized.ini
  DeeReShadePresetBy7x.ini
  ZellixReShadePresetBy7x.ini
  
