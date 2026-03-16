@@ -1,8 +1,8 @@
-# *7xnbt-s-GorillaTag-ReShade-Pack*
+# *7xnbt's GorillaTag ReShade Pack*
 Upgrade your Gorilla Tag visuals with a fully optimized and easy-to-use ReShade setup. This repo was made for players who want better graphics, smoother performance, and a simple installation process.
 All presets are original work created by 7xnbt.
 
-# Why should you downlaod the pack:
+# Why you should download it:
 
 • **Custom optimized ReShade pack designed for performance and clean visuals**
 
