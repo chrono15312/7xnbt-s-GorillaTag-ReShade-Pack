@@ -2,7 +2,7 @@
 Upgrade your Gorilla Tag visuals with a fully optimized and easy-to-use ReShade setup. This repo was made for players who want better graphics, smoother performance, and a simple installation process.
 All presets are original work created by 7xnbt.
 
-# Why you should download it:
+## Why you should download it:
 
 • **Custom optimized ReShade pack designed for performance and clean visuals**
 
@@ -17,16 +17,16 @@ All presets are original work created by 7xnbt.
 • A community space to **post
 and download ReShade presets**
 
- # **SETUP**
+ ## **SETUP**
  run "**7xnbt_s_Reshade_Installer.bat**”
  
- #  **PRESETS**
+ ##  **PRESETS**
  7xReShadePreset.ini
  7xReShadePresetVR_Optimized.ini
  DeeReShadePresetBy7x.ini
  ZellixReShadePresetBy7x.ini
  
- # **INFO**
+ ## **INFO**
  (installer can be used to install any preset)
  (affects SteamVR performance)
  (camera nearclip can change how some fxs look like depending on the amount)
