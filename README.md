@@ -32,5 +32,5 @@ and download ReShade presets**
  (camera nearclip can change how some fxs look like depending on the amount)
  (not visible in vr to prevent lag)
  
- # **CONTROLS**
+ ## **CONTROLS**
  (F1 to open the UI, F3 to toggle ReShade and CRTL+R to reload ReShade)
