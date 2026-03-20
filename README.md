@@ -33,7 +33,8 @@ and download ReShade presets**
  
  ## **CONTROLS**
  (F1 to open the UI, F3 to toggle ReShade and CRTL+R to reload ReShade)
-
+ 
+-----------------------------------------------------------------------------------------------------------------
 (The Author does not claim ownership over third-party shader code other then the xnbt’s fx.
 Such components remain subject to their original licenses. The Author's original contribution consists of: preset configuration and tuning, the installer, curated shader selection and packaging, and visual identity of the Pack.)
 
